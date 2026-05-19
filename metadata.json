@@ -1,0 +1,8 @@
+{
+  "name": "Anthro Pharmaceuticals",
+  "description": "A professional corporate website for Anthro Pharmaceuticals Private Limited, an ethical pharmaceutical marketing company based in Navi Mumbai, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
