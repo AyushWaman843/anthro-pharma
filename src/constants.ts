@@ -71,6 +71,16 @@ export const LEADERS: Leader[] = [
     bio: "Mr. S. K. Thakur, a veteran in Pharma industry having more than 35 years’ experience in pharma selling who was associated with M/s Aristo Pharmaceuticals for more than 3 decades and then with M/s Alkem laboratories Ltd., till he decided that now it’s time to move on and create something of our own."
   },
   {
+    name: "Mr. V. K. Sharma",
+    title: "Director @ Anthro Pharmaceuticals Private Limited",
+    bio: "Mr. V. K. Sharma is a well-known name in East India pharma circles and has 30+ years in pharma sales. He has worked with companies such as Aristo Pharmaceuticals, Alkem laboratories and most recently with Mapra Laboratories where he was the Country Sales Head. He is ably supported by his young and bright son, Mr. Tejeshwi Sharma. Tejeshwi has over 5 years of experience in finance and received a B.Tech degree from I.I.T. Delhi."
+  },
+  {
+    name: "Mr. Ratnesh Thakur",
+    title: "Director @ Anthro Pharmaceuticals Private Limited",
+    bio: "Mr. Ratnesh Thakur, a young dynamic sales professional having over 20+ years of experience in pharma sales and who has been instrumental in establishing numerous new brands in bihar while working with companies such as Aristo Pharmaceuticals and Alkem laboratories."
+  },
+  {
     name: "Mrs. Harpreet Sahu",
     title: "Director @ Anthro Pharmaceuticals Private Limited",
     bio: "Mrs. Harpreet Sahu is a B.Pharm graduate and seasoned pharmaceutical professional with over two decades of experience in the Indian pharmaceutical industry. She has extensive exposure to pharmaceutical operations, product management, marketing, and business development, providing her with strong technical as well as commercial expertise. She has worked in many MNC like Piramal, Hoechst in various roles throughout her career span.\n\nFor the last two years, she has been associated with Anthro Pharmaceuticals Pvt. Ltd. as an Additional Director, where she has played a pivotal role in the turnaround of the company, particularly in strengthening and expanding its specialty pharmaceutical segments. She has contributed significantly to portfolio optimization, specialty product development, brand positioning, and strategic market execution.\n\nShe is known for her hands-on leadership style, deep understanding of specialty markets, and her ability to drive sustainable growth and organizational revival.",
@@ -87,16 +97,6 @@ export const LEADERS: Leader[] = [
     title: "Director @ Anthro Pharmaceuticals Private Limited",
     bio: "Mr. Aman Sahu is a Commerce graduate and a dynamic young professional with over 5 years of hands-on experience in business operations and organizational support functions. As a Director at Anthro Pharmaceuticals Private Limited, he plays an active role in strengthening operational efficiency and supporting the company’s expansion initiatives across key functional areas.\n\nWith a forward-looking mindset and strong involvement in day-to-day operational strengthening, Mr. Sahu continues to support the organization’s mission of building a scalable and performance-driven pharmaceutical business.",
     image: amansahu
-  },
-  {
-    name: "Mr. V. K. Sharma",
-    title: "Director @ Anthro Pharmaceuticals Private Limited",
-    bio: "Mr. V. K. Sharma is a well-known name in East India pharma circles and has 30+ years in pharma sales. He has worked with companies such as Aristo Pharmaceuticals, Alkem laboratories and most recently with Mapra Laboratories where he was the Country Sales Head. He is ably supported by his young and bright son, Mr. Tejeshwi Sharma. Tejeshwi has over 5 years of experience in finance and received a B.Tech degree from I.I.T. Delhi."
-  },
-  {
-    name: "Mr. Ratnesh Thakur",
-    title: "Director @ Anthro Pharmaceuticals Private Limited",
-    bio: "Mr. Ratnesh Thakur, a young dynamic sales professional having over 20+ years of experience in pharma sales and who has been instrumental in establishing numerous new brands in bihar while working with companies such as Aristo Pharmaceuticals and Alkem laboratories."
   }
 ];
 
