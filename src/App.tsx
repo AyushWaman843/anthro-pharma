@@ -15,6 +15,7 @@ import Therapeutics from './pages/Therapeutics';
 import Products from './pages/Products';
 import Careers from './pages/Careers';
 import ContactUs from './pages/ContactUs';
+import TherExcell from './pages/TherExcell';
 import Chatbot from './components/Chatbot';
 
 function ScrollToTop() {
@@ -108,6 +109,7 @@ export default function App() {
             <Route path="/therapeutics" element={<Therapeutics />} />
             <Route path="/products" element={<Products />} />
             <Route path="/careers" element={<Careers />} />
+            <Route path="/therexcell" element={<TherExcell />} />
             <Route path="/contact" element={<ContactUs />} />
           </Routes>
         </main>

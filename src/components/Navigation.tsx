@@ -12,6 +12,7 @@ const NAVIGATION_LINKS = [
   { name: 'Operations', path: '/operations' },
   { name: 'R&D & Therapeutics', path: '/therapeutics' },
   { name: 'Products', path: '/products' },
+  { name: 'TherExcell', path: '/therexcell' },
   { name: 'Careers', path: '/careers' },
   { name: 'Contact Us', path: '/contact' },
 ];
@@ -169,10 +170,10 @@ export function Footer() {
           <div>
             <h4 className="font-heading font-bold text-lg mb-6 border-b border-white/10 pb-2">Quick Links</h4>
             <ul className="space-y-3 font-medium">
-              {['Home', 'About Us', 'Operations', 'Products', 'Contact Us'].map((item) => (
+              {['Home', 'About Us', 'Operations', 'Products', 'TherExcell', 'Contact Us'].map((item) => (
                 <li key={item}>
                   <Link
-                    to={item === 'Home' ? '/' : `/${item.toLowerCase().replace(' ', '')}`}
+                    to={item === 'Home' ? '/' : item === 'TherExcell' ? '/therexcell' : `/${item.toLowerCase().replace(' ', '')}`}
                     className="text-white/60 hover:text-white transition-colors text-sm"
                   >
                     {item}
